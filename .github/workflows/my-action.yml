@@ -1,0 +1,11 @@
+name: My GitHub Action For Straive Internship!!
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: sshrisamyuktha@gmail.com
+        run: echo "Hello, world!"
+        
